@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://toolszu.com/assets/logo.png" alt="Toolszu Logo" width="200">
+  <img src="https://toolszu.com/assets/images/logo.png" alt="Toolszu Logo" width="200">
 
   # 📸 Professional Image Resizer (PHP)
   **The Official High-Performance Image Optimization Utility by [Toolszu.com](https://toolszu.com)**
